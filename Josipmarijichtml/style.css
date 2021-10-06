@@ -1,0 +1,67 @@
+*{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+    color: blue;
+    margin: 0%;
+      
+}
+nav{
+    text-align: center;
+}
+.first{
+    border: solid 1px black;
+    /* margin: 48%; */
+    text-decoration: none;
+    font-size: 1rem;
+    background-color: lightgray;
+    color: brown;
+    padding: 1rem;
+    display: inline-block;
+}
+a:visited{
+color: violet;
+}
+
+a:link{
+    color: rgb(221, 125, 15);
+}
+
+a:hover{
+    color: teal;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+  }
+  .main{
+      text-align: center;
+      font-family: cursive;
+  }
+  .kontakt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    
+  }
+  cite{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 2rem;
+  }
+.andra{
+    border: solid 1px green;
+    text-decoration: none;
+    font-size: 1rem;
+    background-color: lightgray;
+    color: brown;
+    padding: 1rem;
+    display: inline-block;
+    
+}
